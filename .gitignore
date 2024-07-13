@@ -1,0 +1,10 @@
+*.js
+
+/dist/
+
+*.d.ts
+
+node_modules/
+
+tsconfig.json
+tsconfig.tsbuildinfo
